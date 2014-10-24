@@ -1,0 +1,15 @@
+{
+  "name": "core.js",
+  "version": "0.0.0",
+  "description": "core.js",
+  "main": "app.js",
+  "author": {
+    "name": "Quicksort",
+    "email": ""
+  },
+  "dependencies": {
+    "mysql": "^2.5.2",
+    "sequelize": "^2.0.0-rc2",
+    "websocket": "^1.0.10"
+  }
+}
